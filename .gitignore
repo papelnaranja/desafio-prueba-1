@@ -3,11 +3,7 @@
 # compiled output
 /dist
 /tmp
-/_dev
-Gruntfile.js
-package.json
-package-lock.json
-/css/*.css.map
+
 
 
 # dependencies
@@ -24,6 +20,11 @@ package-lock.json
 .settings/
 
 # misc
+/_dev
+Gruntfile.js
+package.json
+package-lock.json
+/css/*.css.map
 /.sass-cache
 /connect.lock
 /coverage/*
