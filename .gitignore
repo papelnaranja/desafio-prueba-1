@@ -5,7 +5,10 @@
 /tmp
 /_dev
 /Gruntfile.js
-/package.js
+/package.json
+/package-lock.json
+/css/*.css.map
+
 
 # dependencies
 /node_modules
