@@ -4,9 +4,9 @@
 /dist
 /tmp
 /_dev
-/Gruntfile.js
-/package.json
-/package-lock.json
+Gruntfile.js
+package.json
+package-lock.json
 /css/*.css.map
 
 
